@@ -1,4 +1,4 @@
-import { AkvaMap } from '../features/map/Map'
+import { AkvaMap } from '../features/map/ui/Map'
 
 function App() {
 	return (
